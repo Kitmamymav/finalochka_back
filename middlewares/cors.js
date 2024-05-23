@@ -9,8 +9,11 @@ function cors(req, res, next) {
 };
 
 const allowedCors = [
-    'https://practicum.yandex.ru',
-    'https://students-projects.ru',
+    'https://pindie11.nomoredomainswork.ru',
+    'http://pindie11.nomoredomainswork.ru',
+    'https://pindie10.nomoredomainswork.ru',
+    'http://pindie10.nomoredomainswork.ru',
+    'http://localhost:3001'
     'http://localhost:3000'
 ];
 
