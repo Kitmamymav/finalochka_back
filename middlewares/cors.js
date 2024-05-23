@@ -13,8 +13,8 @@ const allowedCors = [
     'http://pindie11.nomoredomainswork.ru',
     'https://pindie10.nomoredomainswork.ru',
     'http://pindie10.nomoredomainswork.ru',
-    'http://localhost:3001'
-    'http://localhost:3000'
+    'http://localhost:3001',
+    'http://localhost:3000',
 ];
 
 module.exports = cors;
